@@ -36,7 +36,7 @@
 3. optional intellij IDE
  
 **Run from command line**
-1. clone project to local environment : git clone https://github.com/AhmedAlaaPhil/FiveInRow.git
+1. clone project to local environment : git clone https://github.com/AhmedLCD/FiveInRow
 2. navigate to project directory
 3. open cmd in the project directory
 4. write **mvn test** and press enter
