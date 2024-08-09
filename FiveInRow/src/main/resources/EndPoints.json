@@ -1,0 +1,6 @@
+{
+  "baseURL" : "https://piskvorky.jobs.cz/api/v1/",
+  "user" : "user",
+  "connect" : "connect",
+  "play" : "play"
+}
